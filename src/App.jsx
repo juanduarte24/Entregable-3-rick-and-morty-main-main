@@ -81,9 +81,7 @@ const [location , getSingleLocation , hasError , isLoading] =  useFetch(url)
               </>
             )
       }
-      <br /><br /><br /><br /><br />
-
-      hola
+      <br /><br /><br /><br />
     </div>
 
     
