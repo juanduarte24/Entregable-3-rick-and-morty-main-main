@@ -81,7 +81,7 @@ const [location , getSingleLocation , hasError , isLoading] =  useFetch(url)
               </>
             )
       }
-      <footer>Derechos Reservados®️</footer>
+      <br /><br /><br /><br /><br />
     </div>
   )
 }
